@@ -31,5 +31,6 @@
 </div>
 <div align="left"> 
   <p> <img src="https://komarev.com/ghpvc/?username=Maphilzz&label=Profile%20views&color=0e75b6&style=flat" alt="Maphilzz"/> </p>
+  ![Snake animation](https://github.com/Maphilzz/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
- ![Snake animation](https://github.com/Maphilzz/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
