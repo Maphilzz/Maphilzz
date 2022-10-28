@@ -4,7 +4,9 @@
 - 🔭 Universitário e desenvolvedor front-end.
 - 🌱 Atualamnte estudando JavaScript.
 
-<div
+
+<div align="center">
+  <a href="https://github.com/Maphilzz">
  <a href="https://github.com/Maphilzz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maphilzz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maphilzz&layout=compact&langs_count=7&theme=dark"/>
