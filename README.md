@@ -3,7 +3,7 @@
 
 - Universitário e desenvolvedor front-end.
 - Atualmente estudando JavaScript.
-- Desenvolvedor Web
+- Desenvolvedor Web - Front-End 
 
 
 <div align="center">
