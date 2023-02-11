@@ -1,7 +1,7 @@
 ### Olá eu sou o Matheus Borges !
 
 
-- Universitário e desenvolvedor front-end.
+- Universitário.
 - Atualmente estudando JavaScript.
 - Desenvolvedor Web - Front-End 
 
