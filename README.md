@@ -4,6 +4,7 @@
 - Universitário.
 - Atualmente estudando JavaScript.
 - Desenvolvedor Web - Front-End 
+- Estou atuando no cargo de Product Owner na Fábrica de Tecnologia Turing -FTT
 
 
 <div align="center">
